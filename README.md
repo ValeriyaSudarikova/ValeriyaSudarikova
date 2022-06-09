@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ValeriyaSudarikova
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning JS & web-design
+- 🌱 I’m currently learning Python
 - 📫 Reach me on instagram: @SudarikovaValeriya
 
 <!---
